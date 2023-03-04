@@ -1,0 +1,3 @@
+* read chapter 1
+	on page 11
+* write k means clustering agorithm in notebook and test on images
